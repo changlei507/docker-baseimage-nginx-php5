@@ -1,0 +1,5 @@
+#! /bin/sh
+
+/usr/sbin/php5-fpm
+
+while true; do sleep 60; done

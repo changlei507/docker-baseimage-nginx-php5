@@ -1,0 +1,5 @@
+#! /bin/sh
+
+/usr/sbin/nginx
+
+while true; do sleep 60; done
