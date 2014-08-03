@@ -4,9 +4,6 @@ MAINTAINER Mathias Hertlein
 
 CMD ["/sbin/my_init"]
 
-EXPOSE 80
-EXPOSE 443
-
 ENV HOME /root
 ENV DEBIAN_FRONTEND noninteractive
 
