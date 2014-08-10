@@ -1,4 +1,4 @@
-FROM mhert/baseimage:0.1
+FROM mhert/baseimage:0.2
 
 MAINTAINER Mathias Hertlein
 
